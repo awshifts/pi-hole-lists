@@ -1,0 +1,234 @@
+##
+# Whitelisting an exact domain.
+##
+# adlist sources
+raw.githubusercontent.com
+someonewhocares.org
+winhelp2002.mvps.org
+sysctl.org
+reddestdream.github.io
+v.firebog.net
+adaway.org
+hosts-file.net
+s3.amazonaws.com
+bitbucket.org
+mirror.cedia.org.ec
+mirror1.malwaredomains.com
+openphish.com
+ransomwaretracker.abuse.ch
+www.malwaredomainlist.com
+zeustracker.abuse.ch
+
+# Amazon
+amazon.com
+smile.amazon.com
+www.amazon.com
+
+# Amazon Web Services
+s3.amazonaws.com
+
+# Apple
+apple.com
+ax.phobos.apple.com.edgesuite.net
+client-api.itunes.apple.com
+icloud.com
+itunes.com
+play.itunes.apple.com
+search.itunes.apple.com
+www.apple.com
+www.icloud.com
+www.itunes.com
+
+# Bild DE
+ec-ns.sascdn.com
+
+# DirectTV
+directvapplications.hb.omtrdc.net
+directvnow.com
+js.maxmind.com
+s.zkcdn.net
+
+# Dropbox
+dl.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+
+# EA/Origin
+cdn.optimizely.com
+ea.com
+
+# Ebay
+rover.ebay.com
+
+# Facebook
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+res.cloudinary.com
+scontent-lhr3-1.xx.fbcdn.net
+
+# Fox News
+widget-cdn.rpxnow.com
+
+# Gizmondo
+alluremedia.com.au
+
+# Google Maps and Google services
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+
+# Jackbox.tv
+ssl.google-analytics.com
+www.google-analytics.com
+
+# Malwarebytes
+keystone.mwbsys.com
+
+# Microsoft BitLocker recovery key
+g.live.com
+
+# Microsoft Office
+officeclient.microsoft.com
+
+# Microsoft Web Pages
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+outlook.office365.com
+products.office.com
+
+# Netflix
+netflix.com
+
+# Placehold.it
+placehold.it
+placeholdit.imgix.net
+
+# Plex
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
+app.plex.tv
+cpms.spop10.ams.plex.bz
+cpms35.spop10.ams.plex.bz
+dashboard.plex.tv
+gravatar.com
+meta-db-worker02.pop.ric.plex.bz
+meta.plex.bz
+meta.plex.tv
+metrics.plex.tv
+nine.plugins.plexapp.com
+node.plexapp.com
+o1.email.plex.tv
+o2.sg0.plex.tv
+plex.tv
+proxy.plex.bz
+proxy.plex.tv
+proxy02.pop.ord.plex.bz
+pubsub.plex.bz
+pubsub.plex.tv
+staging.plex.tv
+status.plex.tv
+themoviedb.com
+thetvdb.com
+tvdb2.plex.tv
+tvthemes.plexapp.com
+tvthemes.plexapp.com.cdn.cloudflare.net
+www.plex.tv
+
+# Roku
+tpc.googlesyndication.com
+
+# Shopify
+api.ipify.org
+s.shopify.com
+
+# Skype
+apps.skype.com
+m.hotmail.com
+pricelist.skype.com
+s.gateway.messenger.live.com
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
+sa.symcb.com
+ui.skype.com
+
+# Sonarr
+apt.sonarr.tv
+download.sonarr.tv
+forums.sonarr.tv
+services.sonarr.tv
+skyhook.sonarr.tv
+
+# Spotify
+spclient.wg.spotify.com
+
+# Target's Weekly Ads
+m.weeklyad.target.com
+weeklyad.target.com
+weeklyad.target.com.edgesuite.net
+
+# Tom's Hardware
+tomshardware.com
+
+# Twitter
+analytics.twitter.com
+
+# URL Shorteners
+bit.ly
+goo.gl
+j.mp
+ow.ly
+puu.sh
+www.bit.ly
+
+# Windows connectivity
+msftncsi.com
+www.msftncsi.com
+
+# Windows/Xbox store
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+
+# XKCD
+imgs.xkcd.com
+
+# Xbox Achievements
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+ctldl.windowsupdate.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+eds.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+notify.xboxlive.com
+settings-win.data.microsoft.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+v10.vortex-win.data.microsoft.com
+www.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xbolive.com
+xsts.auth.xboxlive.com
+
+# YouTube history
+s.youtube.com
+video-stats.l.google.com

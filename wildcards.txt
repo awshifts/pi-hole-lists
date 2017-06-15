@@ -1,0 +1,23 @@
+##
+# Blacklisting a wildcard domain.
+##
+# Mobile ads
+adsafeprotected.com
+applovin.com
+appsflyer.com
+cdn.adfront.org
+flurry.com
+inmobi.com
+med.heyzap.com
+moatads.com
+mopub.com
+notify.bugsnag.com
+ns.zdbb.net
+rt.applovin.com
+tag.medialytics.com
+
+# Tracking
+crashlytics.com
+localytics.com
+symcb.com
+symcd.com

@@ -1,0 +1,11 @@
+##
+# Blacklisting an exact domain.
+##
+# Twitch
+api.mixpanel.com
+spade.twitch.com
+pubads.g.doubleclick.net
+sb.scorecardresearch.com
+
+# Various (blog-style ads)
+wsp.mgid.com

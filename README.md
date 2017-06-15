@@ -3,8 +3,8 @@ Pi-Hole Lists
 This repo was created as an effort to provide users with a "better" adlist with a community-curated whitelist for optimal real-world
 usage.
 
-:exclamation: **Please [open a new issue](https://github.com/IAreKyleW00t/pihole-lists/issues/new) to recommend changes to any of the
-lists, or [create a new pull request](https://github.com/IAreKyleW00t/pihole-lists/compare) directly.** :exclamation:
+:exclamation: **Please [open a new issue](https://github.com/IAreKyleW00t/pi-hole-lists/issues/new) to recommend changes to any of the
+lists, or [create a new pull request](https://github.com/IAreKyleW00t/pi-hole-lists/compare) directly.** :exclamation:
 
 Please see [`adlist.list`](adlist.list), [`whitelist.txt`](whitelist.txt), [`blacklist.txt`](blacklist.txt), and [`wildcards.txt`](wildcards.txt) to see which hosts and
 items are specifically included along with an explanation for certain items.

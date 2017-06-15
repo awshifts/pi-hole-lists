@@ -32,3 +32,19 @@ multiple sources and takes up the largest number of domains.
 ### Suspicious domains
 Domains with a high level of suspicion will be blocked. These are mainly pulled from a select few number of sources, but are also
 curated by the community (see: [`blacklist.txt`](blacklist.txt) and [`wildcards.txt`](wildcards.txt)).
+
+License
+=======
+```
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```

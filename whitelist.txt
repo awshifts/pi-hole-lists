@@ -110,6 +110,20 @@ login.live.com
 outlook.office365.com
 products.office.com
 
+# Multiple (Apple, Skype, Java, etc.)
+g1.symcb.com
+g2.symcb.com
+gn.symcb.com
+s.symcd.com
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
+sa.symcb.com
+sv.symcd.com
+rd.symcd.com
+
 # Netflix
 netflix.com
 
@@ -159,12 +173,6 @@ apps.skype.com
 m.hotmail.com
 pricelist.skype.com
 s.gateway.messenger.live.com
-s1.symcb.com
-s2.symcb.com
-s3.symcb.com
-s4.symcb.com
-s5.symcb.com
-sa.symcb.com
 ui.skype.com
 
 # Sonarr

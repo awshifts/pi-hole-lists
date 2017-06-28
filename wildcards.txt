@@ -19,5 +19,3 @@ tag.medialytics.com
 # Tracking
 crashlytics.com
 localytics.com
-symcb.com
-symcd.com
